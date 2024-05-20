@@ -3,7 +3,7 @@ Bash script to paste stuff from the system clipboard to a tmux target
 
 Dependencies:
 
-* `fish` -- apt: `fish`; pacman: `pacman`
+* `fish` -- apt: `fish`
 * `notify-send` -- apt: `libnotify-bin`
 * `xclip` -- apt: `xclip`
 * `tmux` -- apt: `tmux`
